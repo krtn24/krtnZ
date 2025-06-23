@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>にんにくのすべて</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <h1>🧄 にんにくのすべて 🧄</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/GarlicBasket.jpg" alt="にんにく" class="garlic-img">
+    <p>にんにくは、香りが強くスタミナ食としても知られる人気の食材です。</p>
+    <p>料理に使うと風味がアップし、健康にも良いと言われています！</p>
+  </div>
+  <footer>
+    &copy; 2025 にんにく研究会
+  </footer>
+</body>
+</html>
